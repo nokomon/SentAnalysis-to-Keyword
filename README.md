@@ -9,3 +9,7 @@ After comparing each model's performances, we concluded that a CNN-based approac
 I was responsible for modeling sentimental analysis models, and comparing their performances.  
 
 Please refer to [this link](https://www.notion.so/nokomon/135326646beb4ccaa3ecbb27b1fdee42) for details (written in Korean).
+
+
+### References
+- Dataset: https://github.com/e9t/nsmc/
